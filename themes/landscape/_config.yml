@@ -2,14 +2,16 @@
 menu:
   Home: /
   Archives: /archives
-rss: /atom.xml
+  About: /about.html
+
+rss:
 
 # Content
 excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
+sidebar: left
 widgets:
 - category
 - tag
