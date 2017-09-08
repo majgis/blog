@@ -7,7 +7,7 @@ title: MJ's Web Log
 subtitle:
 description:
 author: Michael Jackson
-language:
+language: english
 timezone:
 
 # URL
@@ -79,3 +79,6 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:majgis/majgis.github.io.git
+
+# Disqus comments
+disqus_shortname: majgis
