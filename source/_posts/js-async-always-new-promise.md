@@ -1,5 +1,11 @@
 ---
 title: JS Async Always Returns New Promise
+date: 2017-09-08
+tags:
+- JavaScript
+- async
+- function
+- promise 
 ---
 A JavaScript [async function][0] always returns a new promise, even if you immediately return a promise.
 
